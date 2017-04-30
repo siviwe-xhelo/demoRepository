@@ -1,0 +1,13 @@
+2017-04-30 11:58:19,612 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.maven.git.jenkins:BPM_Test:1.0-SNAPSHOT @ C:\Users\siviwe\Documents\Selenium\BPM_Maven_Jenkins\bpm2\BPM_Test\pom.xml.
+2017-04-30 11:58:26,658 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BPM_Test/src/main/java
+2017-04-30 11:58:26,662 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BPM_Test/src/test/java
+2017-04-30 11:58:30,372 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 32 sec
+2017-04-30 11:58:37,898 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-30 11:58:37,979 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\siviwe\Documents\Selenium\BPM_Maven_Jenkins\bpm2\BPM_Test\src\main\resources
+2017-04-30 11:58:37,988 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-30 11:58:37,992 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\siviwe\Documents\Selenium\BPM_Maven_Jenkins\bpm2\BPM_Test\src\test\resources
+2017-04-30 11:58:50,389 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-30 11:58:50,442 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\siviwe\Documents\Selenium\BPM_Maven_Jenkins\bpm2\BPM_Test\src\main\resources
+2017-04-30 11:58:50,450 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-30 11:58:50,452 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\siviwe\Documents\Selenium\BPM_Maven_Jenkins\bpm2\BPM_Test\src\test\resources
+2017-04-30 12:00:13,702 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
