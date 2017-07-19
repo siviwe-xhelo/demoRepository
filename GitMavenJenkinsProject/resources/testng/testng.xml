@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sprint1 test suite">
+	<listeners>
+	<!--	<listener class-name="com.org.frameworkFiles.testNG.TestNGExecutionListener" />-->
+	</listeners>
+
+	<test name="Sprint1 Tests" preserve-order="true">
+		<!-- <packages> <package name="com.org.frameworkFiles.runners.*"/> </packages> -->
+		<!-- <classes><class name="com.org.frameworkFiles.runners.GoogleSearchCheese"/></classes> -->
+		<!-- <classes><class name="com.org.frameworkFiles.runners.MyHCL"/></classes> -->
+		<classes>
+ 		<!--	<class name="com.org.frameworkFiles.runners.Loginrunner" /> --> 
+ <!-- 		  	<class name="com.org.frameworkFiles.runners.CreditAORecommendrunner" />--> 
+<!-- 		<class
+				name="com.org.frameworkFiles.runners.OverdraftMaintenanceTestrunner" /> -->
+		 	<!-- <class name="com.org.frameworkFiles.runners.CreditAOMakeDecisionrunner"/>-->
+		                                                
+			<!--<class name="com.org.frameworkFiles.runners.FraudMakeDecisionrunner"/>-->
+			<class name="test.TestController"/>
+			
+		</classes>
+	</test>
+</suite>
