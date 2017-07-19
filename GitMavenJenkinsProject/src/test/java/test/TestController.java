@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import cucumber.api.CucumberOptions;
 import cucumber.api.testng.TestNGCucumberRunner;
 
-@CucumberOptions(features = "classpath:features/Fraud-MakeDecision.feature", glue = {"classpath:stepDef"}, plugin = {
+@CucumberOptions(features = "C:\\Users\\siviwe\\Documents\\Selenium\\BPM_Maven_Jenkins\\GitMavenJenkinsProject\\src\\test\\java\\test\\Fraud-MakeDecision.feature", glue = {"classpath:stepDef"}, plugin = {
 
 		"pretty", "html:target/site/cucumber-pretty1",
 		"json:target/AccountOriginationTest.json"})

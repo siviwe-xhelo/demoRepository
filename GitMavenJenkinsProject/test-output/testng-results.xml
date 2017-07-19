@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3177" started-at="2017-07-19T07:04:32Z" finished-at="2017-07-19T07:04:35Z">
+  <suite name="Default suite" duration-ms="2764" started-at="2017-07-19T12:43:33Z" finished-at="2017-07-19T12:43:36Z">
     <groups>
       <group name="testng-cucumber">
-        <method signature="TestController.runCukes()[pri:0, instance:test.TestController@77888435]" name="runCukes" class="test.TestController"/>
+        <method signature="TestController.runCukes()[pri:0, instance:test.TestController@7b98f307]" name="runCukes" class="test.TestController"/>
       </group> <!-- testng-cucumber -->
     </groups>
-    <test name="Default test" duration-ms="3177" started-at="2017-07-19T07:04:32Z" finished-at="2017-07-19T07:04:35Z">
+    <test name="Default test" duration-ms="2764" started-at="2017-07-19T12:43:33Z" finished-at="2017-07-19T12:43:36Z">
       <class name="test.TestController">
-        <test-method status="PASS" signature="runCukes()[pri:0, instance:test.TestController@77888435]" name="runCukes" duration-ms="3102" started-at="2017-07-19T09:04:32Z" description="invoke cucumber runner without extending AbstractTestNGCucumberTests" finished-at="2017-07-19T09:04:35Z">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:test.TestController@7b98f307]" name="runCukes" duration-ms="2696" started-at="2017-07-19T14:43:33Z" description="invoke cucumber runner without extending AbstractTestNGCucumberTests" finished-at="2017-07-19T14:43:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runCukes -->
